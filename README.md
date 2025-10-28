@@ -14,3 +14,4 @@ Creating Personas Based on previous user data or a given user scenario. Create a
 <img width="973" height="532" alt="506444013-d78b9e4b-ab94-459d-9594-23630eae6b8d" src="https://github.com/user-attachments/assets/e9e79d3c-7faf-445d-8445-b6a2c0cfd603" />
 
 ## Result:
+The addition of a feature is completed and verified
